@@ -1,34 +1,26 @@
-# Veterinaria Animales Fantásticos
+# Veterinaria Animales Fantásticos 🐾
 
-Aplicación Android para gestionar una veterinaria: mascotas, dueños, veterinarios y consultas.
+Aplicación Android para la gestión de una clínica veterinaria. Permite administrar dueños, mascotas, veterinarios y agendar consultas de manera eficiente.
 
-**Versión**: 3.0 | **Autor**: Manuel Cortez | **Fecha**: Diciembre 2025
+## 🚀 Características Principales
 
-## Funcionalidades
+*   **Gestión de Registros:** Administración completa de mascotas, dueños y veterinarios.
+*   **Consultas:** Sistema para programar y visualizar citas veterinarias.
+*   **Interfaz Moderna:** Construida totalmente con Jetpack Compose y Material Design 3.
+*   **Fluidez:** Uso de Coroutines y Flow para operaciones asíncronas y reactivas.
 
-- Registro de mascotas, dueños y veterinarios
-- Programación de consultas
-- Validación de datos en tiempo real
-- Sistema de agenda y calendario
+## 🛠️ Tecnologías Utilizadas
 
-## Componentes Implementados
+*   **Lenguaje:** Kotlin 
+*   **UI:** Jetpack Compose
+*   **Arquitectura:** MVVM (Model-View-ViewModel)
+*   **Almacenamiento:** Gestión de datos en memoria (Simulación de API)
 
-- **Activities**: 7 pantallas independientes
-- **Service**: Sincronización en segundo plano
-- **Content Provider**: Compartir datos con otras apps
-- **Broadcast Receiver**: Respuesta a eventos del sistema
-- **Intents**: Navegación y compartir información
+## 📋 Instrucciones de Uso
 
-## Tecnologías
+1.  Abre el proyecto en **Android Studio**.
+2.  Sincroniza el proyecto con Gradle.
+3.  Ejecuta la aplicación en un emulador o dispositivo físico (Android 7.0+).
 
-- Kotlin
-- Jetpack Compose
-- Material Design 3
-- MVVM
-
-## Instalación
-
-1. Abrir en Android Studio
-2. Sincronizar Gradle
-3. Ejecutar en dispositivo o emulador
-
+---
+** Semana 9
